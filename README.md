@@ -111,11 +111,3 @@ healthcare-dashboard/
 ## 📝 License
 
 MIT License - Free to use and modify
-
-## 👥 Contributing
-
-Contributions welcome! Fork the repo and submit a pull request.
-
----
-
-**Made with ❤️ for Healthcare Management**
